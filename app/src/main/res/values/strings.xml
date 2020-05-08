@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="notyouraveragedev_in">notyouraveragedev.in</string>
+    <string name="simple_spinner">Simple Spinner</string>
+    <string name="custom_spinner">Custom Spinner</string>
+    <string name="country_flag">Country Flag</string>
+</resources>
